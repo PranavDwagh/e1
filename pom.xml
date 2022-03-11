@@ -16,7 +16,7 @@
 	</dependencies>
 	
 	<build>
- <finalName>java-jenkins-docker</finalName>
+ <finalName>myjavaimage</finalName>
  </build>
 	
 	
